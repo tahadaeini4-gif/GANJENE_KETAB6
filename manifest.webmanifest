@@ -1,0 +1,15 @@
+{
+  "name": "گنجینه ی کتاب",
+  "short_name": "گنجینه کتاب",
+  "description": "سامانه کتابخانه مدرسه",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {"src": "logo.png", "sizes": "800x800", "type": "image/png", "purpose": "any"}
+  ]
+}
